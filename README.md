@@ -27,4 +27,4 @@ Kullanıcılar müşteri ekleme, güncelleme, silme ve arama ve kategori, ürün
 ## 📥 Kurulum
 1. Bu projeyi klonla:
    ```bash
-   git clone https://github.com/kullaniciadi/musteri-yonetim.git
+   git clone https://github.com/emreeozutemizz/MVCStok.git
