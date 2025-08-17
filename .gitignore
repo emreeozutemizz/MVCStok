@@ -1,0 +1,11 @@
+# Visual Studio ayarları
+.vs/
+*.user
+*.suo
+
+# Build çıktı klasörleri
+bin/
+obj/
+
+# NuGet paketleri
+packages/
