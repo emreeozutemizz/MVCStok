@@ -18,7 +18,7 @@ Kullanıcılar müşteri ekleme, güncelleme, silme ve arama ve kategori, ürün
 
 ## 🛠️ Kullanılan Teknolojiler
 - ASP.NET MVC 5  
-- Entity Framework 6 (Code First)  
+- Entity Framework 6 (DB First)  
 - SQL Server  
 - Bootstrap 5  
 
